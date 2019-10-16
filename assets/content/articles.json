@@ -1,0 +1,299 @@
+[
+  {
+    "id": "0",
+    "img": "../img/projects/mobilier/table-basse-souche/1.jpg",
+    "alt": "Table basse en bois flotté",
+    "titre": "Table basse souche",
+    "description": "Table composée d'un verre trempé 8mm monté sur une souche en bois flotté récupérée sur une plage de la côte Basque. Création originale Klud Design.",
+    "tag": "furniture",
+    "images": [
+      {"src": "../img/projects/mobilier/table-basse-souche/1.jpg"},
+      {"src": "../img/projects/mobilier/table-basse-souche/2.jpg"},
+      {"src": "../img/projects/mobilier/table-basse-souche/3.jpg"},
+      {"src": "../img/projects/mobilier/table-basse-souche/4.jpg"},
+      {"src": "../img/projects/mobilier/table-basse-souche/5.jpg"},
+      {"src": "../img/projects/mobilier/table-basse-souche/6.jpg"},
+      {"src": "../img/projects/mobilier/table-basse-souche/7.jpg"},
+      {"src": "../img/projects/mobilier/table-basse-souche/8.jpg"}
+    ]
+  },
+  {
+    "id": "1",
+    "img": "../img/projects/mobilier/salon-marocain/1.jpg",
+    "alt": "Salon marocain",
+    "titre": "Salon marocain",
+    "description": "Petit cube de mousse revêtu d'une fourrure synthétique de qualité. Appelé pouf ou salon marocain, cette pièce unique fait partie des essentiels du salon contemporain. Création originale Klud Design.",
+    "tag": "furniture",
+    "images": [
+      {"src": "../img/projects/mobilier/salon-marocain/1.jpg"},
+      {"src": "../img/projects/mobilier/salon-marocain/2.jpg"},
+      {"src": "../img/projects/mobilier/salon-marocain/3.jpg"}
+    ]
+  },
+  {
+    "id": "2",
+    "img": "../img/projects/mobilier/cub-a/1.jpg",
+    "alt": "Table basse cub-a",
+    "titre": "Cub A",
+    "description": "Table d'appoint en acier aux lignes minimalistes et finition peinture époxy. Création originale Klud Design.",
+    "tag": "furniture",
+    "images": [
+      {"src": "../img/projects/mobilier/cub-a/1.jpg"},
+      {"src": "../img/projects/mobilier/cub-a/2.jpg"},
+      {"src": "../img/projects/mobilier/cub-a/3.jpg"}
+    ]
+  },
+  {
+    "id": "3",
+    "img": "../img/projects/mobilier/meuble-TV/1.jpg",
+    "alt": "Meuble de télévision",
+    "titre": "Meuble tv",
+    "description": "Projet de meuble de télévision sur mesure pour intégration dans une villa neuve du sud de la France. Matériaux bois : lamellé collé chêne et contreplaqué bouleau laqué blanc.",
+    "tag": "furniture",
+    "images": [
+      {"src": "../img/projects/mobilier/meuble-TV/1.jpg"},
+      {"src": "../img/projects/mobilier/meuble-TV/2.jpg"},
+      {"src": "../img/projects/mobilier/meuble-TV/3.jpg"}
+    ]
+  },
+  {
+    "id": "5",
+    "img": "../img/projects/mobilier/table-basse-K/1.jpg",
+    "alt": "Table basse K",
+    "titre": "Table basse K",
+    "description": "Rendu 3D d'une création originale Klud Design.",
+    "tag": "furniture",
+    "images": [
+      {"src": "../img/projects/mobilier/table-basse-K/1.jpg"},
+      {"src": "../img/projects/mobilier/table-basse-K/2.jpg"},
+      {"src": "../img/projects/mobilier/table-basse-K/3.jpg"}
+    ]
+  },
+  {
+    "id": "6",
+    "img": "../img/projects/mobilier/table-mini-bar/1.jpg",
+    "alt": "Mini bar",
+    "titre": "Mini bar",
+    "description": "Petit meuble mini bar cubique (H500xL500xl500mm) composé de deux portes battantes et permettant de ranger une dizaine de bouteilles. Commande sur-mesure pour une décoratrice d'intérieur. Finition acier brut microbillé + vernis antirouille.",
+    "tag": "furniture",
+    "images": [
+      {"src": "../img/projects/mobilier/table-mini-bar/1.jpg"},
+      {"src": "../img/projects/mobilier/table-mini-bar/2.jpg"},
+      {"src": "../img/projects/mobilier/table-mini-bar/3.jpg"}
+    ]
+  },
+  {
+    "id": "7",
+    "img": "../img/projects/bac-a-sable/1.jpg",
+    "alt": "Bac à sable interactif",
+    "titre": "Bac à sable interactif",
+    "description": "Outil de médiation scientifique, cette expérience de réalité augmentée permet aux visiteurs du musée d'expérimenter et d'appréhender une des branches des mathématiques: la topologie. Le visiteur construit des formes dans le sable, puis le capteur de profondeur dont le dispositif est équipé, récupère les informations topologiques des formes dessinées, qui les transmet à un ordinateur pour être ensuite traité puis affiché en temps réel sous forme d'une carte de chaleur directement à la surface du sable.",
+    "tag": "digital",
+    "images": [
+      {"src": "../img/projects/bac-a-sable/1.jpg"},
+      {"src": "../img/projects/bac-a-sable/2.jpg"},
+      {"src": "../img/projects/bac-a-sable/3.jpg"},
+      {"src": "../img/projects/bac-a-sable/4.jpg"}
+    ]
+  },
+  {
+    "id": "8",
+    "img": "../img/projects/biogenie/1.jpg",
+    "alt": "Pupitre",
+    "titre": "Biomédical",
+    "description": "Projet de design d'un pupitre et intégration d'appareils à usage biomédical.",
+    "tag": "design",
+    "images": [
+      {"src": "../img/projects/biogenie/1.jpg"},
+      {"src": "../img/projects/biogenie/2.jpg"},
+      {"src": "../img/projects/biogenie/3.jpg"},
+      {"src": "../img/projects/biogenie/4.jpg"}
+    ]
+  },
+  {
+    "id": "9",
+    "img": "../img/projects/brassage-linguistique/1.jpg",
+    "alt": "Brassage linguistique",
+    "titre": "Brassage linguistique",
+    "description": "Ce module d'exposition scientifique est un jeu interactif qui permet de mettre en avant l'origine linguistique de certains mots ou phrases. Le module est composé de deux jeux. Pour « switcher » de l'un à l'autre, il suffit de presser un bouton central servant de toggle. L'allumage des leds sur l'une ou l'autre partie du jeu sert de repère visuel. Le module est composé d'une partie logiciel développé en Javascript qui pilote une partie hardware sous Arduino. La partie back-end est développée sous Node.js et la partie front-end sous HTML5 / CSS3 ainsi que la bibliothèque jQuery.",
+    "tag": "digital",
+    "images": [
+      {"src": "../img/projects/brassage-linguistique/1.jpg"},
+      {"src": "../img/projects/brassage-linguistique/2.jpg"},
+      {"src": "../img/projects/brassage-linguistique/3.jpg"}
+    ]
+  },
+  {
+    "id": "10",
+    "img": "../img/projects/caoutchouc/2.png",
+    "alt": "Amortisseur d'amarrage",
+    "titre": "Amortisseur d’amarrage",
+    "description": "L’amortisseur d’amarrage pour bateaux est un dispositif permettant la réduction des mouvements de rappel d’un bateau de plaisance sur ces amarres lorsque celui-ci est ballotté par les vagues ou le vent. Ces amortisseurs sont très utiles lorsque que le quai est exposé aux mouvements de houles ou de vagues de sillages des bateaux traversant le port. Le tendeur d’amarrage en caoutchouc éthylène propylène ( EPDM ) noir, protège donc les éléments d’amarrage du bateau. Une analyse de l'existant, puis une étude de design formel ont été réalisés pour ce projet, avec une première proposition de quatre designs, suivi d'un réajustement sur le design sélectionné.",
+    "tag": "design",
+    "images": [
+      {"src": "../img/projects/caoutchouc/1.png"},
+      {"src": "../img/projects/caoutchouc/2.png"},
+      {"src": "../img/projects/caoutchouc/3.png"}
+    ]
+  },
+  {
+    "id": "11",
+    "img": "../img/projects/table-medicale/1.jpg",
+    "alt": "Table médicale",
+    "titre": "Table médicale",
+    "description": "Le projet ONIS a pour but de développer une nouvelle gamme de table d’opération à commande électrique, afin d’enrichir avec un produit plus moderne le catalogue de cette société. Klud Design est chargé de l’étude du design formel, de la conception mécanique, du calcul de structure, de la conception des gabarits d'assemblage et de la mise en œuvre d’une gamme de fabrication.",
+    "tag": "engineering",
+    "images": [
+      {"src": "../img/projects/table-medicale/1.jpg"},
+      {"src": "../img/projects/table-medicale/2.jpg"},
+      {"src": "../img/projects/table-medicale/3.jpg"},
+      {"src": "../img/projects/table-medicale/4.png"},
+      {"src": "../img/projects/table-medicale/5.png"}
+    ]
+  },
+  {
+    "id": "12",
+    "img": "../img/projects/console-modulaire/1.jpg",
+    "alt": "console modulaire",
+    "titre": "Console modulaire",
+    "description": "Projet de design réalisé pour un grand équipementier naval français. L'objectif de ce projet était d'apporter des solutions innovantes en terme de design est d'ergonomie pour un poste de commande de navire de surface. Le projet comportait des contraintes de modularité en relation avec l'intégration des éléments ainsi que des contraintes mécaniques tel que les vibrations due à la houle.",
+    "tag": "design",
+    "images": [
+      {"src": "../img/projects/console-modulaire/1.jpg"},
+      {"src": "../img/projects/console-modulaire/2.jpg"},
+      {"src": "../img/projects/console-modulaire/3.jpg"},
+      {"src": "../img/projects/console-modulaire/4.jpg"},
+      {"src": "../img/projects/console-modulaire/5.jpg"},
+      {"src": "../img/projects/console-modulaire/6.jpg"}
+    ]
+  },
+  {
+    "id": "13",
+    "img": "../img/projects/design-sonore/1.jpg",
+    "alt": "Design sonore",
+    "titre": "Design sonore",
+    "description": "Imaginé comme la « voix du bâtiment », la sculpture sonore est installée au plafond du hall d’entrée de la maison Île de France à la Cité Universitaire de Paris. Elle diffuse une multitude de petits sons indiquant l’état énergétique de ce bâtiment à énergie positive. L’objectif de ce dispositif est de matérialiser par le son, les performances environnementales du bâtiment.",
+    "tag": "digital",
+    "images": [
+      {"src": "../img/projects/design-sonore/1.jpg"},
+      {"src": "../img/projects/design-sonore/2.jpg"},
+      {"src": "../img/projects/design-sonore/3.jpg"},
+      {"src": "../img/projects/design-sonore/4.jpg"},
+      {"src": "../img/projects/design-sonore/5.jpg"}
+    ]
+  },
+  {
+    "id": "14",
+    "img": "../img/projects/froid/1.jpg",
+    "alt": "Froid",
+    "titre": "Froid",
+    "description": "Le « froid un ennemi redoutable » est un module scientifique itinérant permettant aux visiteurs de tester différents matériaux pour mieux comprendre leurs propriétés thermiques. Des gants composés de ces différents matériaux peuvent être testés dans une vitrine dans laquelle il fait entre 1 et 6°C. Pour mieux comprendre l'effet du vent sur la sensation de froid, la vitrine est séparée en deux, avec un côté une partie vent et de l'autre une partie sans vent.",
+    "tag": "engineering",
+    "images": [
+      {"src": "../img/projects/froid/1.jpg"},
+      {"src": "../img/projects/froid/2.jpg"},
+      {"src": "../img/projects/froid/3.jpg"}
+    ]
+  },
+  {
+    "id": "15",
+    "img": "../img/projects/pince-skimmer/3.jpg",
+    "alt": "Pince skimmer",
+    "titre": "Pince de skimmer",
+    "description": "L'objet d'étude est une canne permettant de sortir les paniers skimmer (paniers de récolte des saletés dans les piscines) pour les personnes ayants des difficultés à se baisser. Elle comporte une poignée à une extrémité et une pince mobile à l'autre extrémité. En bout de pince se trouve un crochet servant à ouvrir le couvercle du panier skimmer. De chaque cotés de la pince mobile se trouve un crochet pour attraper et extraire le panier. L'étude comprend la recherche de l'existant, le design, la conception et la réalisation d'un prototype fonctionnel.",
+    "tag": "design",
+    "images": [
+      {"src": "../img/projects/pince-skimmer/1.jpg"},
+      {"src": "../img/projects/pince-skimmer/2.jpg"},
+      {"src": "../img/projects/pince-skimmer/3.jpg"},
+      {"src": "../img/projects/pince-skimmer/4.jpg"}
+    ]
+  },
+  {
+    "id": "16",
+    "img": "../img/projects/riviere-riviere/1.jpg",
+    "alt": "Traitement des eaux",
+    "titre": "Traitement des eaux",
+    "description": "Ce projet est une manip de musée servant à expliquer le cycle de traitement des eaux. Le but est de retrouver dans l’ordre, les six étapes de traitement des eaux suivant les questions posées. A chaque bonne réponse un bandeau de led illumine le chemin vers la prochaine étape. Le dispositif est composé de six boutons et bandeaux de led de 12v entièrement contrôlés par une carte Arduino Uno.",
+    "tag": "digital",
+    "images": [
+      {"src": "../img/projects/riviere-riviere/1.jpg"},
+      {"src": "../img/projects/riviere-riviere/2.jpg"},
+      {"src": "../img/projects/riviere-riviere/3.jpg"},
+      {"src": "../img/projects/riviere-riviere/4.jpg"}
+    ]
+  },
+  {
+    "id": "17",
+    "img": "../img/projects/web/baldas-mecanique.jpg",
+    "alt": "Baldas mécanique",
+    "titre": "Baldas mécanique",
+    "description": "Site vitrine pour un tourneur / fraiseur. Visiter le site web www.baldas-mecanique.fr",
+    "tag": "web",
+    "images": [
+      {"src": "../img/projects/web/baldas-mecanique2.jpg"}
+    ]
+  },
+  {
+    "id": "18",
+    "img": "../img/projects/web/construction-metallique-16.jpg",
+    "alt": "Construction métallique",
+    "titre": "Construction métallique 16",
+    "description": "Site vitrine pour un charpentier métallique. Visiter le site web www.construction-metallique16.com",
+    "tag": "web",
+    "images": [
+      {"src": "../img/projects/web/construction-metallique-16-2.jpg"}
+    ]
+  },
+  {
+    "id": "20",
+    "img": "../img/projects/web/lambert-coleman.jpg",
+    "alt": "Lambert Coleman",
+    "titre": "Lambert Coleman",
+    "description": "Portfolio photo pour un photographe. Visiter le site web www.lambertcoleman.com",
+    "tag": "web",
+    "images": [
+      {"src": "../img/projects/web/lambert-coleman2.jpg"}
+    ]
+  },
+  {
+    "id": "21",
+    "img": "../img/projects/web/natte-paris.jpg",
+    "alt": "Natté Paris",
+    "titre": "Natte Paris",
+    "description": "Site e-commerce de produits indonésiens. Visiter le site www.natte-paris.com",
+    "tag": "web",
+    "images": [
+      {"src": "../img/projects/web/natte-paris2.jpg"}
+    ]
+  },
+  {
+    "id": "22",
+    "img": "../img/projects/kub-process/1.jpg",
+    "alt": "Kub process",
+    "titre": "Kub process",
+    "description": "Issu de la volonté de proposer au monde agricole des solutions de valorisation des effluents et autres ressources organiques, KUB Process propose des unités de méthanisation, fruit d'une véritable réflexion sur les besoins de l'agriculture de demain. Projet de design et de conception mécanique avec calcul de structure sur le châssis mécano-soudé.",
+    "tag": "engineering",
+    "images": [
+      {"src": "../img/projects/kub-process/1.jpg"},
+      {"src": "../img/projects/kub-process/2.jpg"},
+      {"src": "../img/projects/kub-process/3.jpg"},
+      {"src": "../img/projects/kub-process/4.jpg"},
+      {"src": "../img/projects/kub-process/5.jpg"}
+    ]
+  },
+  {
+    "id": "23",
+    "img": "../img/projects/imprimante-3d/1.jpg",
+    "alt": "Imprimante 3D",
+    "titre": "Imprimante 3D",
+    "description": "Imprimante 3D entièrement conçue et fabriquée sur-mesure. Seule la carte électronique est une base open source. Le but était de créer un outil de travail sur-mesure qui apporte à la fois une aide à la validation du design formel ainsi qu’à la validation technique de certaines pièces mécaniques avant leur mise en production.",
+    "tag": "engineering",
+    "images": [
+      {"src": "../img/projects/imprimante-3d/1.jpg"},
+      {"src": "../img/projects/imprimante-3d/2.jpg"},
+      {"src": "../img/projects/imprimante-3d/3.jpg"},
+      {"src": "../img/projects/imprimante-3d/4.jpg"}
+    ]
+  }
+]

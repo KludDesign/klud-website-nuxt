@@ -1,0 +1,41 @@
+[
+  {
+    "tab": "Pitch",
+    "titre": "Pitch",
+    "texts":[
+      {"p1": "Klud Design est un bureau d’étude pluridisciplinaire, indépendant, au service de projets innovants."},
+      {"p2": "En tant que freelance, mon champ d’action porte sur les domaines du design, du numérique et de l’ingénierie mécanique / mécatronique. Animé par la passion, mon choix de compétences a été influencé par le fait qu’aujourd’hui ces trois secteurs sont essentiels à la bonne réussite d'un développement de produit « tech »."},
+      {"p3": "Klud Design présente un avantage en terme d'expertise, de qualité et de flexibilité (projet clé-en-main ou mission ponctuelle), ce qui a pour effet de raccourcir la phase de mise sur le marché du produit."}
+    ],
+    "backImg": "background-image:url('../img/climpek.png')"
+  },
+  {
+    "tab": "Design",
+    "titre": "Design global",
+    "texts": [
+      {"p1": "Que l’on évoque le design UX / UI ou celui de produit, le design est au coeur du processus de développement des projets de mes clients."},
+      {"p2": "Bien plus que de répondre à une esthétique et une expérience utilisateur, la phase design intègre une phase amont comportant une analyse préliminaire visant à déterminer les technologies qui seront employées selon le besoin du projet, qu’il soit mécanique, électronique et / ou numérique."},
+      {"p3": "Cette phase rentre donc dans une logique de qualité, d’optimisation et de cohérence relative au résultat souhaité."}
+  ],
+    "backImg": "background-image:url('../img/black-thread-light.png')"
+  },
+  {
+    "tab": "Numérique",
+    "titre": "Developpement web",
+    "texts": [
+      {"p1": "Actuellement, les technologies du web connaissent un engouement sans précédent pour répondre à la majorité des besoins en terme de développement numérique. Que ce soit pour réaliser des applications bureau, mobile, web, pour la gestion des systèmes d’informations ou pour la programmation de microcontrôleurs, les nouvelles technologies du web peuvent y répondre. "},
+      {"p2": "C’est pourquoi depuis 3 ans j’ai fait le choix de m’orienter sur des technologies telles que NodeJs et Ruby pour le back-end ou encore VueJs pour la partie front-end, apportant avec eux leurs composants nouvelle génération couvrant les besoins globaux des projets numériques."}
+    ],
+    "backImg": "background-image:url('../img/cubes.png')"
+  },
+  {
+    "tab": "Ingénierie",
+    "titre": "Ingénierie générale",
+    "texts": [
+      {"p1": "Chez Klud Design l’ingénierie est le liant qui fait concorder avec pertinence les domaines de la mécanique, de l’électronique, du développement numérique et du développement web lui-même. De la phase d’étude, de gestion de projet, à la phase de production, tous les supports matériels et logiciels suivant les besoins sont mis à contribution pour la bonne réalisation du projet."},
+      {"p2": "Pour les phases de prototypage, les technologies telles que Arduino ou Raspbery Pi pour l’électronique / numérique / IOT et PhoneGap ou encore VueNative pour les applications mobiles sont employés."},
+      {"p3": "Pour la partie mécanique, le développement est réalisé en interne sur un logiciel CAO, puis transmis à des entreprises partenaires pour leur exécution."}
+  ],
+    "backImg": "background-image:url('../img/gplay.png')"
+  }
+]

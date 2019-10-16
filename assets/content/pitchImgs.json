@@ -1,0 +1,42 @@
+[
+  {
+    "src": "../img/web-tools/html5.png",
+    "delay": "animated bounceInUp slow",
+    "alt": "html5 logo"
+  },
+  {
+    "src": "../img/web-tools/css3.png",
+    "delay": "animated bounceInDown slow",
+    "alt": "css3 logo"
+  },
+  {
+    "src": "../img/web-tools/bootstrap.png",
+    "delay": "animated bounceInUp slow",
+    "alt": "bootstrap logo"
+  },
+  {
+    "src": "../img/web-tools/javascript.png",
+    "delay": "animated bounceInDown slow",
+    "alt": "javascript logo"
+  },
+  {
+    "src": "../img/web-tools/nodejs.png",
+    "delay": "animated bounceInUp slow",
+    "alt": "nodejs logo"
+  },
+  {
+    "src": "../img/web-tools/vuejs.png",
+    "delay": "animated bounceInDown slow",
+    "alt": "vuejs logo"
+  },
+  {
+    "src": "../img/web-tools/ruby.png",
+    "delay": "animated bounceInUp slow",
+    "alt": "ruby logo"
+  },
+  {
+    "src": "../img/web-tools/shopify.png",
+    "delay": "animated bounceInDown slow",
+    "alt": "shopify logo"
+  }
+]

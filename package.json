@@ -1,0 +1,32 @@
+{
+  "name": "kludDesign",
+  "version": "1.0.0",
+  "description": "New site klud",
+  "author": "KludDesign",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "@nuxtjs/redirect-module": "^0.2.0",
+    "@nuxtjs/sitemap": "^0.2.2",
+    "cross-env": "^5.2.0",
+    "json-loader": "^0.5.7",
+    "nuxt": "^2.0.0",
+    "vue-typer": "^1.2.0",
+    "vuetify": "^1.4.0"
+  },
+  "devDependencies": {
+    "eslint-config-prettier": "^3.1.0",
+    "eslint-plugin-prettier": "2.6.2",
+    "nodemon": "^1.18.9",
+    "prettier": "1.14.3",
+    "stylus": "^0.54.5",
+    "stylus-loader": "^3.0.2",
+    "vue-particles": "^1.0.9"
+  }
+}
