@@ -16,7 +16,7 @@
     "@nuxtjs/sitemap": "^0.2.2",
     "cross-env": "^5.2.0",
     "json-loader": "^0.5.7",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "vue-typer": "^1.2.0",
     "vuetify": "^1.4.0"
   },
